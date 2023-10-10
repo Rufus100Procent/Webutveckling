@@ -1,2 +1,6 @@
 # Webutveckling
-Learning Webdevelopment
+Learning Webdevelopment,
+-- HTML
+-- CSS
+-- JS
+-- React framwork
