@@ -1,6 +1,6 @@
 # Webutveckling
 Learning Webdevelopment,
--- HTML
--- CSS
--- JS
--- React framwork
+- HTML
+- CSS
+- JS
+- React framwork
